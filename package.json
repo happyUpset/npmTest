@@ -1,0 +1,19 @@
+{
+  "name": "lc-working-components",
+  "version": "1.0.0-test",
+  "description": "this is new created on my job",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyUpset/npmTest.git"
+  },
+  "author": "leo chiou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/happyUpset/npmTest/issues"
+  },
+  "homepage": "https://github.com/happyUpset/npmTest#readme"
+}
